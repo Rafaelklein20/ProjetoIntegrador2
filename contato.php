@@ -1,7 +1,3 @@
-<?php
-include 'navbar.php'
-    ?>
-
 <div class="row divc" id="contatti">
     <div class="container mt-5">
         <div class="row" style="height:450px;">
@@ -74,9 +70,3 @@ include 'navbar.php'
         </div>
     </div>
 </div>
-<?php
-include 'footer.php'
-    ?>
-</body>
-
-</html>

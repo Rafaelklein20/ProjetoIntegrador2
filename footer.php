@@ -1,4 +1,3 @@
-</body>
 <footer>
     <div class="col-100 footer">
         <div class="content">
@@ -54,8 +53,3 @@
         </p>
     </div>
 </div>
-<script type="text/javascript" src="./js/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="./js/jquery-migrate-1.2.1.min.js"></script>
-<script type="text/javascript" src="./js/slick.min.js"></script>
-<script type="text/javascript" src="./js/main.js"></script>
-</body>
